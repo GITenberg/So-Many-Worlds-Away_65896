@@ -1,5 +1,8 @@
 _repo: So-Many-Worlds-Away_65896
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65896-h/images/cover.jpg
 creator:
   author:
     agent_name: Swain, Dwight V.
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/35980
     - https://en.wikipedia.org/wiki/Dwight_V._Swain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65896#So-Many-Worlds-Away
 gutenberg_issued: '2021-07-22'
 gutenberg_type: Text
 identifiers:
